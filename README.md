@@ -1,1 +1,1 @@
-Project involving analyzing data sets involving the use of SQLite DB using Python.
+Project involving analyzing data sets involving the use of SQLite DB in Python.
